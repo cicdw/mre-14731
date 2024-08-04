@@ -1,3 +1,3 @@
-[submodule "mre-14731-sub"]
-	path = mre-14731-sub
-	url = https://github.com/cicdw/mre-14731-sub.git
+[submodule "mre_14731_sub"]
+	path = mre_14731_sub
+	url = https://github.com/cicdw/mre_14731_sub.git
